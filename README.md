@@ -22,4 +22,4 @@ El movimiento de la nave se realiza en los ejes sin tener en cuenta a donde apun
 Para crear el gif que muestro a continuación utilize la herramienta de gif-animation que puedes encontrar en este [enlace](https://github.com/extrapixel/gif-animation)
 
 ## Resultado.
-![](https://github.com/irunervey/CIU-SistemaSolarConNave/blob/master/Practica4/Data/animation.gif)
+![](https://github.com/irunervey/CIU-SistemaSolarConNave/blob/master/animacion.gif)
